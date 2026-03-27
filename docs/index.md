@@ -6,6 +6,9 @@ created_date: 2024-03-27
 staff:
     - name: Nadia Muhe
       link: https://library.utoronto.ca/staff/nadia-muhe 
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 permalink: "/"  #! Remove this if not the homepage
 ---
 

@@ -836,7 +836,3 @@ Additional packages to complement shiny:
 Alternative link for the TTC Subway Delays application:
 
 * <https://nadiamuhe.shinyapps.io/ttcdelays/>
-
- 
-
-Technique: [Quantitative Data Analysis](https://mdl.library.utoronto.ca/technique/quantitative-data-analysis), [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization) | Tools: [R](https://mdl.library.utoronto.ca/tools/r-0) | Data Format: [Microdata](https://mdl.library.utoronto.ca/data-format-tutorials/microdata)

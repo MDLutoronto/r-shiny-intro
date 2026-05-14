@@ -2,6 +2,13 @@
 title: B. User Interface
 parent: Introduction to R Shiny
 layout: default
+created_date: 2024-03-27
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe 
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe 
 nav_order: 2
 ---
 
@@ -321,3 +328,5 @@ To display our graph output first, we use the plotOutput() function and we give 
 When you save and run the code at this stage, nothing shows up on the right-hand side of the application. We need to complete the code for the server function before we can see any output in the main panel.
 
 <img src='{{ '/assets/images/8.%20R%20Shiny%20-%20Main%20Panel.png' | relative_url }}' alt='8. R Shiny - Main Panel' title='' width='739' height='714' />
+
+**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Quantitative+Data+Analysis), [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R) \| **Data Format:** [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)

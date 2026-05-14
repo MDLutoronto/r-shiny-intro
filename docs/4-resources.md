@@ -2,6 +2,13 @@
 title: D. Resources
 parent: Introduction to R Shiny
 layout: default
+created_date: 2024-03-27
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe 
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe 
 nav_order: 4
 ---
 
@@ -23,3 +30,5 @@ Additional packages to complement shiny:
 Alternative link for the TTC Subway Delays application:
 
 * <https://nadiamuhe.shinyapps.io/ttcdelays/>
+
+**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Quantitative+Data+Analysis), [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R) \| **Data Format:** [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)

@@ -2,6 +2,13 @@
 title: C. Server Function
 parent: Introduction to R Shiny
 layout: default
+created_date: 2024-03-27
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe 
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe 
 nav_order: 3
 ---
 
@@ -356,3 +363,5 @@ When the condition is true, we want to take the filtered dataset from the ttcfil
 Save and run the application code. Now when you check off the show delay codes checkbox, you will see a data table of the top ten most common TTC delay codes below the line graph.
 
 <img src='{{ '/assets/images/14.%20R%20Shiny%20-%20Delay%20Codes%20Data%20Table.png' | relative_url }}' alt='14. R Shiny - Delay Codes Data Table' title='' width='871' height='653' />
+
+**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Quantitative+Data+Analysis), [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R) \| **Data Format:** [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)

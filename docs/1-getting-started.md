@@ -2,6 +2,13 @@
 title: A. Getting Started
 parent: Introduction to R Shiny
 layout: default
+created_date: 2024-03-27
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe 
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe 
 nav_order: 1
 ---
 
@@ -100,7 +107,7 @@ Then you connect to your GitHub account from within RStudio. To do this, you nee
 
 ```r
 # Step 2
-rsconnect::setAccountInfo(name='githubusername', token='tokencode', secret=secretcode')
+rsconnect::setAccountInfo(name='githubusername', token='tokencode', secret='secretcode')
 ```
 In the final step, you deploy the application by specifying the file path to the folder where you have saved the R Shiny application code and any files used within that code. For example, in this guide, the *app.R* R script is saved in a folder called ttcdelays.
 
@@ -109,3 +116,5 @@ In the final step, you deploy the application by specifying the file path to the
 rsconnect::deployApp('H:/Documents/R Shiny/ttcdelays')
 ```
 Once you run this final step, you will find the URL where your shiny application has been deployed to in the console window. Note that the shiny application URL contains the name of the folder where you have saved your application code. In this guide, the shiny application was deployed to the following site: <https://MDLutoronto.shinyapps.io/ttcdelays/>.
+
+**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Quantitative+Data+Analysis), [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R) \| **Data Format:** [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)

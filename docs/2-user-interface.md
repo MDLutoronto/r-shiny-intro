@@ -297,7 +297,7 @@ To add hyperlinks, you can use the a() function from the htmltools package. And 
       "This app was developed by Nadia Muhe.",
       htmltools::br(),
       "The guide for this application can be found",
-      htmltools::a("here.", href="https://mdl.library.utoronto.ca/technology/tutorials/introduction-r-shiny")
+      htmltools::a("here.", href="https://mdlutoronto.github.io/r-shiny-intro/")
 
 ```
 <img src='{{ '/assets/images/7.%20R%20Shiny%20-%20Text_0.png' | relative_url }}' alt='7. R Shiny - Text' title='' width='738' height='713' />
